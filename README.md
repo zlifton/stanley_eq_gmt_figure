@@ -1,0 +1,1 @@
+# stanley_eq_gmt_figure
