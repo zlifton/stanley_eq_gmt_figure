@@ -4,6 +4,8 @@ Generic Mapping Tools (GMT) script for mapping the 2020 M6.5 Stanley earthquake,
 
   Liberty, L.M, Lifton, Z.M., and Mikesell, T.D., (2020) The 31 March 2020 Mw 6.5 Stanley, Idaho, Earthquake: Seismotectonics and Preliminary Aftershock Analysis: Seismological Research Letters, https://doi.org/10.1785/0220200319. 
   
+  !(https://github.com/zlifton/stanley_eq_gmt_figure/blob/7e606eb6c0ac2151341cf474337896ca5899e5db/Stanley_SRL_Fig_2.png)
+  
 Some of the data files used in this script were too large to upload to GitHub:
   
 - dem.grd
